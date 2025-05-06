@@ -1,6 +1,6 @@
 # EXNO-5-DS-DATA VISUALIZATION USING MATPLOT LIBRARY
 # Name: PAVITHRA S
-#Reg.No:212223230147
+# Reg.No:212223230147
 # Aim:
   To Perform Data Visualization using matplot python library for the given datas.
 
